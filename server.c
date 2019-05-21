@@ -1,4 +1,4 @@
-// Server side C/C++ program demo
+// Server side C/C++ socket program demo
 
 #include <unistd.h>
 #include <stdio.h>
